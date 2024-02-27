@@ -43,7 +43,6 @@ Functionality:
 ● Extracts keywords and keyphrases: KeyBERT analyzes your text and extracts the
 most important and informative words and phrases that capture the document's
 essence.
-
 ● Uses transformer models: It relies on powerful transformer models like BERT to
 understand the context and relationships between words in the document, leading to
 more accurate keyword extraction.
