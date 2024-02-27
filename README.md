@@ -20,3 +20,7 @@ Incorrect Tyres Sent denotes a problem, something inherently negative.
 **Task**
 The task is to develop an approach that given a sample will identify the subthemes along with
 their respective sentiments.
+
+</br>
+
+![image](https://github.com/TusharPaul01/Subtheme-Sentiment-Analysis/assets/97314846/a30f5765-50c2-4ab5-981d-e33e258c6100)
